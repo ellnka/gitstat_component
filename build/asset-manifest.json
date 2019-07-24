@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/gitstat_component/static/css/main.f55d9146.chunk.css",
+    "main.js": "/gitstat_component/static/js/main.49960cda.chunk.js",
+    "main.js.map": "/gitstat_component/static/js/main.49960cda.chunk.js.map",
+    "runtime~main.js": "/gitstat_component/static/js/runtime~main.f06ea754.js",
+    "runtime~main.js.map": "/gitstat_component/static/js/runtime~main.f06ea754.js.map",
+    "static/css/2.266e55a5.chunk.css": "/gitstat_component/static/css/2.266e55a5.chunk.css",
+    "static/js/2.6f597268.chunk.js": "/gitstat_component/static/js/2.6f597268.chunk.js",
+    "static/js/2.6f597268.chunk.js.map": "/gitstat_component/static/js/2.6f597268.chunk.js.map",
+    "index.html": "/gitstat_component/index.html",
+    "precache-manifest.db2644cc08189ce70aabcfe7f693b9ad.js": "/gitstat_component/precache-manifest.db2644cc08189ce70aabcfe7f693b9ad.js",
+    "service-worker.js": "/gitstat_component/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/gitstat_component/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.f55d9146.chunk.css.map": "/gitstat_component/static/css/main.f55d9146.chunk.css.map"
+  }
+}
